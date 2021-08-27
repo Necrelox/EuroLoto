@@ -1,5 +1,7 @@
 # EuroLoto
 
+(readme à refaire)
+
 make -jx      (x représente le nombre de coeur du cpu pour la compile)
 
 ./EuroLoto euro **ou** ./EuroLoto loto
